@@ -1,6 +1,4 @@
-# Tools
-
-## 🔒 YACT: Yet Another Cybersecurity Toolbox
+# 🔒 YACT: Yet Another Cybersecurity Toolbox
 
 This document is a curated collection of open-source security tools aimed at bolstering system security, conducting penetration testing, recovering lost data, and safeguarding online privacy. It offers options for cybersecurity professionals and privacy-conscious users alike, including tools for vulnerability assessment, system defense, network traffic analysis, data recovery, and online privacy protection. Whether you're a beginner or an expert, you'll find tools suited to your needs here. Feel free to explore and incorporate these tools into your digital security toolbox! 🚀🔒
 
