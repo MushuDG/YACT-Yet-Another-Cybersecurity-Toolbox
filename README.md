@@ -10,6 +10,11 @@ This document is a curated collection of open-source security tools aimed at bol
 - [📦 Hypervisor](#-hypervisor)
 - [💾 Data Recovery](#-data-recovery)
 - [🔒 Security and Privacy Check](#-security-and-privacy-check)
+- [📜 Forensics](#-forensics)
+- [📈 System Monitoring](#-system-monitoring)
+- [🔧 Configuration Management](#-configuration-management)
+- [📦 Containerization](#-containerization)
+- [📄 License](#-license)
 
 ## 🔍 Pentest
 
