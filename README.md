@@ -145,4 +145,4 @@ This document is a curated collection of open-source security tools aimed at bol
 
 ## 📄 License
 
-This script is released under the [MIT license](https://github.com/MushuDG/Tools/blob/main/LICENSE).
+This project is released under the [MIT license](https://github.com/MushuDG/Tools/blob/main/LICENSE).
