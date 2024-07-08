@@ -14,6 +14,7 @@ This document is a curated collection of open-source security tools aimed at bol
 - [📈 System Monitoring](#-system-monitoring)
 - [🔧 Configuration Management](#-configuration-management)
 - [📦 Containerization](#-containerization)
+- [🔍 OSINT](#-osint)
 - [📄 License](#-license)
 
 ## 🔍 Pentest
@@ -31,7 +32,6 @@ This document is a curated collection of open-source security tools aimed at bol
 | Nmap            | Nmap is a free port scanner created by Fyodor and distributed by Insecure.org. It is designed to detect open ports, identify hosted services, and gather information about the operating system of a remote computer. Nmap is available for Windows, Mac OS X, Linux, BSD, and Solaris.                                                          | [Nmap](https://en.wikipedia.org/wiki/Nmap)                       |
 | SQLmap          | SQLmap is an open-source penetration testing tool that automates the process of detecting and exploiting SQL injection flaws and taking over database servers.                                                                                                                                                                                   | [SQLmap](https://en.wikipedia.org/wiki/Sqlmap)                   |
 | W3af            | W3af is a Web Application Attack and Audit Framework, an open-source web application security scanner which helps secure web applications by finding and exploiting all web application vulnerabilities.                                                                                                                                         | [W3af](https://en.wikipedia.org/wiki/W3af)                       |
-| mosint          | mosint is an OSINT tool used for gathering information about email addresses. It performs various checks and queries to gather data like domain information, related IP addresses, breach data, and other relevant details.                                                                                                                     | [mosint](https://github.com/alpkeskin/mosint)                     |
 
 ## 🛡️ Protection
 
@@ -133,6 +133,15 @@ This document is a curated collection of open-source security tools aimed at bol
 | Portainer  | Portainer is an open-source tool to simplify managing Docker containers. It provides a web interface for managing Docker, making it easier to deploy, manage, and monitor containers.                                                                                                               | [Portainer](https://www.portainer.io/)                    |
 | Rancher    | Rancher is an open-source software platform that enables organizations to run and manage Docker and Kubernetes in production.                                                                                                                                                                       | [Rancher](https://en.wikipedia.org/wiki/Rancher_Labs)     |
 | containerd | containerd is an industry-standard core container runtime. It is available as a daemon for Linux and Windows, which can manage the complete container lifecycle of its host system: image transfer and storage, container execution and supervision, and low-level storage and network attachments. | [containerd](https://en.wikipedia.org/wiki/Containerd)    |
+
+## 🔍 OSINT
+
+| Tool name | Quick description                                                                                                                                                                                                                           | Read more...                                            |
+| --------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------ |
+| mosint    | mosint is an OSINT tool used for gathering information about email addresses. It performs various checks and queries to gather data like domain information, related IP addresses, breach data, and other relevant details.                     | [mosint](https://github.com/alpkeskin/mosint)          |
+| theHarvester | theHarvester is a tool for gathering emails, subdomains, hosts, employee names, open ports, and banners from different public sources such as search engines, PGP key servers, and the Shodan database.                                    | [theHarvester](https://github.com/laramies/theHarvester)|
+| Maltego   | Maltego is a data mining tool that performs link analysis and data visualization. It is used in online investigations for finding relationships between pieces of information from various online sources.                                      | [Maltego](https://www.maltego.com/)                    |
+| SpiderFoot| SpiderFoot automates the collection of intelligence about IP addresses, domain names, e-mail addresses, names, and more, by querying over 100 public data sources to gather information about a target.                                        | [SpiderFoot](https://www.spiderfoot.net/)              |
 
 ## 📄 License
 
