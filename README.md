@@ -18,7 +18,6 @@ This document is a curated collection of open-source security tools aimed at bol
 
 ## 🔍 Pentest
 
-
 | Tool name       | Quick description                                                                                                                                                                                                                                                                                                                                | Read more...                                                        |
 | ----------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
 | Aircrack-ng     | Aircrack-ng is a suite of tools for assessing WiFi network security. It focuses on different areas of WiFi security, including monitoring, attacking, testing, and cracking.                                                                                                                                                                     | [Aircrack-ng](https://en.wikipedia.org/wiki/Aircrack-ng)         |
@@ -32,9 +31,9 @@ This document is a curated collection of open-source security tools aimed at bol
 | Nmap            | Nmap is a free port scanner created by Fyodor and distributed by Insecure.org. It is designed to detect open ports, identify hosted services, and gather information about the operating system of a remote computer. Nmap is available for Windows, Mac OS X, Linux, BSD, and Solaris.                                                          | [Nmap](https://en.wikipedia.org/wiki/Nmap)                       |
 | SQLmap          | SQLmap is an open-source penetration testing tool that automates the process of detecting and exploiting SQL injection flaws and taking over database servers.                                                                                                                                                                                   | [SQLmap](https://en.wikipedia.org/wiki/Sqlmap)                   |
 | W3af            | W3af is a Web Application Attack and Audit Framework, an open-source web application security scanner which helps secure web applications by finding and exploiting all web application vulnerabilities.                                                                                                                                         | [W3af](https://en.wikipedia.org/wiki/W3af)                       |
+| mosint          | mosint is an OSINT tool used for gathering information about email addresses. It performs various checks and queries to gather data like domain information, related IP addresses, breach data, and other relevant details.                                                                                                                     | [mosint](https://github.com/alpkeskin/mosint)                     |
 
 ## 🛡️ Protection
-
 
 | Tool name   | Quick description                                                                                                                                                                                                                                                        | Read more...                                                     |
 | ------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------- |
@@ -52,7 +51,6 @@ This document is a curated collection of open-source security tools aimed at bol
 
 ## 🧩 Analysis
 
-
 | Tool name | Quick description                                                                                                                                                                             | Read more...                                            |
 | ----------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------ |
 | ELK Stack | The ELK Stack consists of Elasticsearch, Logstash, and Kibana. It is used for searching, analyzing, and visualizing log data in real-time.                                                    | [ELK Stack](https://en.wikipedia.org/wiki/ELK_Stack) |
@@ -61,7 +59,6 @@ This document is a curated collection of open-source security tools aimed at bol
 | Wireshark | Wireshark is a free and open-source packet analyzer. It is used for network troubleshooting, analysis, software and protocol development, and reverse engineering.                            | [Wireshark](https://en.wikipedia.org/wiki/Wireshark) |
 
 ## 📦 Hypervisor
-
 
 | Tool name  | Quick description                                                                                                                                                                                 | Read more...                                                         |
 | ------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------- |
@@ -72,7 +69,6 @@ This document is a curated collection of open-source security tools aimed at bol
 
 ## 💾 Data Recovery
 
-
 | Tool name | Quick description                                                                                                                                                                                                                                                                   | Read more...                                          |
 | ----------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------- |
 | DMDE      | DMDE (DM Disk Editor and Data Recovery Software) is a disk editor and data recovery software with a number of freeware features such as disk editing, simple partition management, and a tool to create disk images and clones.                                                     | [DMDE](https://dmde.com/)                          |
@@ -80,7 +76,6 @@ This document is a curated collection of open-source security tools aimed at bol
 | TestDisk  | TestDisk is free and open-source data recovery software designed to recover lost partition data and make non-booting disks bootable again. It can also be used to collect detailed information about a corrupted drive which can then be sent to a technician for further analysis. | [TestDisk](https://en.wikipedia.org/wiki/TestDisk) |
 
 ## 🔒 Security and Privacy Check
-
 
 | Tool name                                                      | Quick description                                                                                                                                                                                                                                                                         | Read more...                                                               |
 | ---------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------- |
@@ -96,7 +91,6 @@ This document is a curated collection of open-source security tools aimed at bol
 
 ## 📜 Forensics
 
-
 | Tool name  | Quick description                                                                                                                                                                                                 | Read more...                                                         |
 | ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------- |
 | Autopsy    | Autopsy is an open-source digital forensics platform that provides a GUI to The Sleuth Kit (TSK). It is used by law enforcement, military, and corporate examiners to investigate what happened on a computer.    | [Autopsy](https://en.wikipedia.org/wiki/Autopsy_(software))       |
@@ -108,7 +102,6 @@ This document is a curated collection of open-source security tools aimed at bol
 
 ## 📈 System Monitoring
 
-
 | Tool name  | Quick description                                                                                                                                                                                                                                            | Read more...                                                         |
 | ------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------- |
 | Cacti      | Cacti is an open-source, web-based network monitoring and graphing tool designed as a front-end application for the data logging software RRDtool.                                                                                                           | [Cacti](https://en.wikipedia.org/wiki/Cacti_(software))           |
@@ -118,7 +111,6 @@ This document is a curated collection of open-source security tools aimed at bol
 | Zabbix     | Zabbix is an open-source monitoring software tool for various IT components, including networks, servers, virtual machines, and cloud services. It provides monitoring metrics, among others, for network utilization, CPU load, and disk space consumption. | [Zabbix](https://en.wikipedia.org/wiki/Zabbix)                    |
 
 ## 🔧 Configuration Management
-
 
 | Tool name           | Quick description                                                                                                                                                                                                                                           | Read more...                                                       |
 | --------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------- |
@@ -131,7 +123,6 @@ This document is a curated collection of open-source security tools aimed at bol
 | Terraform           | Terraform is an open-source infrastructure as code software tool created by HashiCorp. Users define and provision data center infrastructure using a high-level configuration language known as HashiCorp Configuration Language (HCL), or optionally JSON. | [Terraform](https://en.wikipedia.org/wiki/Terraform_(software)) |
 
 ## 📦 Containerization
-
 
 | Tool name  | Quick description                                                                                                                                                                                                                                                                                   | Read more...                                                 |
 | ------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------- |
